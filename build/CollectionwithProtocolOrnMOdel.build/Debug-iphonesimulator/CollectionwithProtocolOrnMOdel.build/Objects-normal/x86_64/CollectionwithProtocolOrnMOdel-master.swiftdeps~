@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "8389258d45225d589bb1fe10ebf007c4"
+build_time: [1541234633, 997032000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/ViewController.swift": [1541234630, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/AppDelegate.swift": [1541234630, 0]

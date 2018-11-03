@@ -1,0 +1,395 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", ""]
+- ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "viewWillTransition"]
+provides-dynamic-lookup:
+- "viewWillTransition"
+depends-top-level:
+- !private "=="
+- !private "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "CGSize"
+- "FloatLiteralType"
+- !private "IndexPath"
+- "IntegerLiteralType"
+- "SWipeController"
+- "UIViewControllerTransitionCoordinator"
+depends-member:
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "contentSize"]
+- !private ["So15CALayerDelegateP", "currentPage"]
+- !private ["So15CALayerDelegateP", "scrollToItem"]
+- !private ["So6CGSizeV", "zero"]
+- !private ["s7CVarArgP", "IndexPath"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "collectionView"]
+- !private ["s7CVarArgP", "collectionViewLayout"]
+- !private ["s7CVarArgP", "contentSize"]
+- !private ["s7CVarArgP", "currentPage"]
+- !private ["s7CVarArgP", "invalidateLayout"]
+- !private ["s7CVarArgP", "pageControl"]
+- !private ["s7CVarArgP", "scrollToItem"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "IndexPath"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionView"]
+- !private ["s28CustomDebugStringConvertibleP", "collectionViewLayout"]
+- !private ["s28CustomDebugStringConvertibleP", "contentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "currentPage"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidateLayout"]
+- !private ["s28CustomDebugStringConvertibleP", "pageControl"]
+- !private ["s28CustomDebugStringConvertibleP", "scrollToItem"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "contentSize"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "scrollToItem"]
+- !private ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "IndexPath"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "collectionView"]
+- !private ["s23CustomStringConvertibleP", "collectionViewLayout"]
+- !private ["s23CustomStringConvertibleP", "contentSize"]
+- !private ["s23CustomStringConvertibleP", "currentPage"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidateLayout"]
+- !private ["s23CustomStringConvertibleP", "pageControl"]
+- !private ["s23CustomStringConvertibleP", "scrollToItem"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "contentSize"]
+- !private ["Se", "init"]
+- !private ["Se", "scrollToItem"]
+- !private ["Se", "zero"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "contentSize"]
+- !private ["SE", "init"]
+- !private ["SE", "scrollToItem"]
+- !private ["SE", "zero"]
+- !private ["SQ", "IndexPath"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "centeredHorizontally"]
+- !private ["SQ", "collectionView"]
+- !private ["SQ", "collectionViewLayout"]
+- !private ["SQ", "contentSize"]
+- !private ["SQ", "currentPage"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invalidateLayout"]
+- !private ["SQ", "pageControl"]
+- !private ["SQ", "scrollToItem"]
+- !private ["SQ", "zero"]
+- !private ["s25ExpressibleByArrayLiteralP", "centeredHorizontally"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "contentSize"]
+- !private ["s23ExpressibleByNilLiteralP", "scrollToItem"]
+- !private ["SH", "IndexPath"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "collectionView"]
+- !private ["SH", "collectionViewLayout"]
+- !private ["SH", "contentSize"]
+- !private ["SH", "currentPage"]
+- !private ["SH", "init"]
+- !private ["SH", "invalidateLayout"]
+- !private ["SH", "pageControl"]
+- !private ["SH", "scrollToItem"]
+- !private ["10Foundation9IndexPathV", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "init"]
+- !private ["So8NSCodingP", "IndexPath"]
+- !private ["So8NSCodingP", "collectionView"]
+- !private ["So8NSCodingP", "collectionViewLayout"]
+- !private ["So8NSCodingP", "contentSize"]
+- !private ["So8NSCodingP", "currentPage"]
+- !private ["So8NSCodingP", "invalidateLayout"]
+- !private ["So8NSCodingP", "pageControl"]
+- !private ["So8NSCodingP", "scrollToItem"]
+- !private ["So26NSExtensionRequestHandlingP", "IndexPath"]
+- !private ["So26NSExtensionRequestHandlingP", "collectionView"]
+- !private ["So26NSExtensionRequestHandlingP", "collectionViewLayout"]
+- !private ["So26NSExtensionRequestHandlingP", "pageControl"]
+- ["So8NSObjectC", "CGSize"]
+- !private ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "UIViewControllerTransitionCoordinator"]
+- !private ["So8NSObjectC", "collectionView"]
+- !private ["So8NSObjectC", "collectionViewLayout"]
+- !private ["So8NSObjectC", "contentSize"]
+- !private ["So8NSObjectC", "currentPage"]
+- !private ["So8NSObjectC", "invalidateLayout"]
+- !private ["So8NSObjectC", "pageControl"]
+- !private ["So8NSObjectC", "scrollToItem"]
+- ["So8NSObjectC", "viewWillTransition"]
+- !private ["So8NSObjectP", "IndexPath"]
+- !private ["So8NSObjectP", "animate"]
+- !private ["So8NSObjectP", "collectionView"]
+- !private ["So8NSObjectP", "collectionViewLayout"]
+- !private ["So8NSObjectP", "contentSize"]
+- !private ["So8NSObjectP", "currentPage"]
+- !private ["So8NSObjectP", "invalidateLayout"]
+- !private ["So8NSObjectP", "pageControl"]
+- !private ["So8NSObjectP", "scrollToItem"]
+- !private ["s9OptionSetP", "centeredHorizontally"]
+- !private ["Sq", "contentSize"]
+- !private ["Sq", "scrollToItem"]
+- !private ["Sk", "init"]
+- !private ["SY", "centeredHorizontally"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "CGSize"]
+- !private ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "IndexPath"]
+- ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "UIViewControllerTransitionCoordinator"]
+- !private ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "collectionView"]
+- !private ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "collectionViewLayout"]
+- !private ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "deinit"]
+- !private ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "pageControl"]
+- ["30CollectionwithProtocolOrnMOdel15SWipeControllerC", "viewWillTransition"]
+- !private ["So30UICollectionViewScrollPositionV", "centeredHorizontally"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "centeredHorizontally"]
+- !private ["So29UIAccessibilityIdentificationP", "contentSize"]
+- !private ["So29UIAccessibilityIdentificationP", "currentPage"]
+- !private ["So29UIAccessibilityIdentificationP", "scrollToItem"]
+- !private ["So12UIAppearanceP", "contentSize"]
+- !private ["So12UIAppearanceP", "currentPage"]
+- !private ["So12UIAppearanceP", "scrollToItem"]
+- !private ["So21UIAppearanceContainerP", "IndexPath"]
+- !private ["So21UIAppearanceContainerP", "collectionView"]
+- !private ["So21UIAppearanceContainerP", "collectionViewLayout"]
+- !private ["So21UIAppearanceContainerP", "contentSize"]
+- !private ["So21UIAppearanceContainerP", "currentPage"]
+- !private ["So21UIAppearanceContainerP", "pageControl"]
+- !private ["So21UIAppearanceContainerP", "scrollToItem"]
+- !private ["So16UICollectionViewC", "contentSize"]
+- !private ["So16UICollectionViewC", "scrollToItem"]
+- ["So26UICollectionViewControllerC", "CGSize"]
+- !private ["So26UICollectionViewControllerC", "IndexPath"]
+- ["So26UICollectionViewControllerC", "UIViewControllerTransitionCoordinator"]
+- !private ["So26UICollectionViewControllerC", "collectionView"]
+- !private ["So26UICollectionViewControllerC", "collectionViewLayout"]
+- !private ["So26UICollectionViewControllerC", "pageControl"]
+- ["So26UICollectionViewControllerC", "viewWillTransition"]
+- !private ["So26UICollectionViewDataSourceP", "IndexPath"]
+- !private ["So26UICollectionViewDataSourceP", "collectionView"]
+- !private ["So26UICollectionViewDataSourceP", "collectionViewLayout"]
+- !private ["So26UICollectionViewDataSourceP", "pageControl"]
+- !private ["So24UICollectionViewDelegateP", "IndexPath"]
+- !private ["So24UICollectionViewDelegateP", "collectionView"]
+- !private ["So24UICollectionViewDelegateP", "collectionViewLayout"]
+- !private ["So24UICollectionViewDelegateP", "pageControl"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "IndexPath"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "collectionView"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "collectionViewLayout"]
+- !private ["So34UICollectionViewDelegateFlowLayoutP", "pageControl"]
+- !private ["So22UICollectionViewLayoutC", "invalidateLayout"]
+- !private ["So18UIContentContainerP", "IndexPath"]
+- !private ["So18UIContentContainerP", "collectionView"]
+- !private ["So18UIContentContainerP", "collectionViewLayout"]
+- !private ["So18UIContentContainerP", "pageControl"]
+- !private ["So9UIControlC", "currentPage"]
+- !private ["So17UICoordinateSpaceP", "contentSize"]
+- !private ["So17UICoordinateSpaceP", "currentPage"]
+- !private ["So17UICoordinateSpaceP", "scrollToItem"]
+- !private ["So23UIDataSourceTranslatingP", "contentSize"]
+- !private ["So23UIDataSourceTranslatingP", "scrollToItem"]
+- !private ["So13UIDynamicItemP", "contentSize"]
+- !private ["So13UIDynamicItemP", "currentPage"]
+- !private ["So13UIDynamicItemP", "scrollToItem"]
+- !private ["So18UIFocusEnvironmentP", "IndexPath"]
+- !private ["So18UIFocusEnvironmentP", "collectionView"]
+- !private ["So18UIFocusEnvironmentP", "collectionViewLayout"]
+- !private ["So18UIFocusEnvironmentP", "contentSize"]
+- !private ["So18UIFocusEnvironmentP", "currentPage"]
+- !private ["So18UIFocusEnvironmentP", "pageControl"]
+- !private ["So18UIFocusEnvironmentP", "scrollToItem"]
+- !private ["So11UIFocusItemP", "contentSize"]
+- !private ["So11UIFocusItemP", "currentPage"]
+- !private ["So11UIFocusItemP", "scrollToItem"]
+- !private ["So20UIFocusItemContainerP", "contentSize"]
+- !private ["So20UIFocusItemContainerP", "currentPage"]
+- !private ["So20UIFocusItemContainerP", "scrollToItem"]
+- !private ["So30UIFocusItemScrollableContainerP", "contentSize"]
+- !private ["So30UIFocusItemScrollableContainerP", "scrollToItem"]
+- !private ["So13UIPageControlC", "currentPage"]
+- !private ["So30UIPasteConfigurationSupportingP", "IndexPath"]
+- !private ["So30UIPasteConfigurationSupportingP", "collectionView"]
+- !private ["So30UIPasteConfigurationSupportingP", "collectionViewLayout"]
+- !private ["So30UIPasteConfigurationSupportingP", "contentSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "currentPage"]
+- !private ["So30UIPasteConfigurationSupportingP", "pageControl"]
+- !private ["So30UIPasteConfigurationSupportingP", "scrollToItem"]
+- ["So11UIResponderC", "CGSize"]
+- !private ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "UIViewControllerTransitionCoordinator"]
+- !private ["So11UIResponderC", "collectionView"]
+- !private ["So11UIResponderC", "collectionViewLayout"]
+- !private ["So11UIResponderC", "contentSize"]
+- !private ["So11UIResponderC", "currentPage"]
+- !private ["So11UIResponderC", "pageControl"]
+- !private ["So11UIResponderC", "scrollToItem"]
+- ["So11UIResponderC", "viewWillTransition"]
+- !private ["So30UIResponderStandardEditActionsP", "IndexPath"]
+- !private ["So30UIResponderStandardEditActionsP", "collectionView"]
+- !private ["So30UIResponderStandardEditActionsP", "collectionViewLayout"]
+- !private ["So30UIResponderStandardEditActionsP", "contentSize"]
+- !private ["So30UIResponderStandardEditActionsP", "currentPage"]
+- !private ["So30UIResponderStandardEditActionsP", "pageControl"]
+- !private ["So30UIResponderStandardEditActionsP", "scrollToItem"]
+- !private ["So12UIScrollViewC", "contentSize"]
+- !private ["So12UIScrollViewC", "scrollToItem"]
+- !private ["So20UIScrollViewDelegateP", "IndexPath"]
+- !private ["So20UIScrollViewDelegateP", "collectionView"]
+- !private ["So20UIScrollViewDelegateP", "collectionViewLayout"]
+- !private ["So20UIScrollViewDelegateP", "pageControl"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "contentSize"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "scrollToItem"]
+- !private ["So16UIStateRestoringP", "IndexPath"]
+- !private ["So16UIStateRestoringP", "collectionView"]
+- !private ["So16UIStateRestoringP", "collectionViewLayout"]
+- !private ["So16UIStateRestoringP", "pageControl"]
+- !private ["So18UITraitEnvironmentP", "IndexPath"]
+- !private ["So18UITraitEnvironmentP", "collectionView"]
+- !private ["So18UITraitEnvironmentP", "collectionViewLayout"]
+- !private ["So18UITraitEnvironmentP", "contentSize"]
+- !private ["So18UITraitEnvironmentP", "currentPage"]
+- !private ["So18UITraitEnvironmentP", "pageControl"]
+- !private ["So18UITraitEnvironmentP", "scrollToItem"]
+- !private ["So23UIUserActivityRestoringP", "IndexPath"]
+- !private ["So23UIUserActivityRestoringP", "collectionView"]
+- !private ["So23UIUserActivityRestoringP", "collectionViewLayout"]
+- !private ["So23UIUserActivityRestoringP", "contentSize"]
+- !private ["So23UIUserActivityRestoringP", "currentPage"]
+- !private ["So23UIUserActivityRestoringP", "pageControl"]
+- !private ["So23UIUserActivityRestoringP", "scrollToItem"]
+- !private ["So6UIViewC", "contentSize"]
+- !private ["So6UIViewC", "currentPage"]
+- !private ["So6UIViewC", "scrollToItem"]
+- ["So16UIViewControllerC", "CGSize"]
+- !private ["So16UIViewControllerC", "IndexPath"]
+- ["So16UIViewControllerC", "UIViewControllerTransitionCoordinator"]
+- !private ["So16UIViewControllerC", "collectionView"]
+- !private ["So16UIViewControllerC", "collectionViewLayout"]
+- !private ["So16UIViewControllerC", "pageControl"]
+- ["So16UIViewControllerC", "viewWillTransition"]
+- !private ["So37UIViewControllerTransitionCoordinatorP", "animate"]
+- !private ["So44UIViewControllerTransitionCoordinatorContextP", "animate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "contentSize"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "currentPage"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "scrollToItem"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "IndexPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionViewLayout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentPage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidateLayout"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pageControl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scrollToItem"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "contentSize"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "scrollToItem"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "So6CGSizeV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "10Foundation9IndexPathV"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sk"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "30CollectionwithProtocolOrnMOdel15SWipeControllerC"
+- !private "So30UICollectionViewScrollPositionV"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So16UICollectionViewC"
+- "So26UICollectionViewControllerC"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
+- !private "So34UICollectionViewDelegateFlowLayoutP"
+- !private "So22UICollectionViewLayoutC"
+- !private "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So13UIPageControlC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerTransitionCoordinatorP"
+- !private "So44UIViewControllerTransitionCoordinatorContextP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3d1a60fef4522560b294c440e4abe1c3"

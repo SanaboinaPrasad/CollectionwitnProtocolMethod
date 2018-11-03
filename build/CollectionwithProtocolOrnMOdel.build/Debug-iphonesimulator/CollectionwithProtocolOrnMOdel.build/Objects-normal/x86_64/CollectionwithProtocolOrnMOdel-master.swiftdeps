@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "8389258d45225d589bb1fe10ebf007c4"
+build_time: [1541234702, 7640000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/ViewController.swift": [1541222340, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/SwipeCollection.swift": [1541234520, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/SwipeCell.swift": [1541233888, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/Page.swift": [1541218891, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewPaginationWithbottomControls/CollectionViewPaginationWithbottomControls/AppDelegate.swift": [1541221691, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/SwipeController+Extension.swift": [1541233975, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionwithProtocolOrnMOdel/CollectionwithProtocolOrnMOdel/SwipeController+Delegatemethods.swift": [1541234520, 0]
